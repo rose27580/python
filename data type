@@ -1,0 +1,6 @@
+int_n=48
+print(f" number:{int_n},type:{type(int_n)}")
+float_n=4.88
+print(f" number:{float_n},type:{type(float_n)}")
+complex_n= 1+3j
+print(f" number:{complex_n},type:{type(complex_n)}")
