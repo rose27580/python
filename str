@@ -1,0 +1,5 @@
+names=input("enter your names:").split(',')
+count=0
+for name in names:
+    count+=name.count('r')
+    print(f"the letter a occurs{count}  times in the list of names")
